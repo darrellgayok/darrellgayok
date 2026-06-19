@@ -1,14 +1,15 @@
 # Hi, I'm Darrell Gayok Insor 👋
 
-I am a finance graduate interested in financial analysis, ESG research and business intelligence. I am building practical projects using Power BI, SQL, Excel and Power Query.
+I am a finance graduate focused on financial analysis, ESG research and business intelligence. I use SQL, Power BI, Excel and Power Query to build practical projects that turn data into clear business insights.
 
 ## About Me
 
 - 🎓 Bachelor of Finance graduate from Universiti Malaysia Sarawak, Class of 2026
-- 📊 Interested in financial analysis, ESG and business performance
-- 🌱 Developing my Power BI, SQL and Power Query skills
+- 📊 Focused on financial analysis, ESG analytics and business intelligence
+- 🌱 Building practical projects using SQL, Power BI, Excel and Power Query
+- 🌍 Interested in sustainable finance, climate-risk analysis and renewable-energy finance
 - 📍 Based in Kuching, Sarawak, Malaysia
-- 💼 Open to graduate opportunities in finance, accounting and data analysis
+- 💼 Open to graduate opportunities in finance, accounting, ESG and data analysis
 
 ## Tools and Skills
 
