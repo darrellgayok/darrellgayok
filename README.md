@@ -41,14 +41,14 @@ SQL project analysing user activity, funnel performance, traffic sources, conver
 * **Key skills:** `COUNT`, `CASE WHEN`, `GROUP BY`, CTEs, date filtering, conversion-rate calculations and revenue metrics
 * **Status:** Completed
 
-### Excel Foundation for Business Analysis
+### [Excel Foundation for Business Analysis](https://github.com/darrellgayok/excel-foundation-business-analysis)
 
 Excel portfolio project focused on practical finance-related spreadsheet skills using a realistic practice dataset with transactions, vendors, account codes, branches, payment status and invoice details.
 
 * **Tools:** Microsoft Excel and GitHub
 * **Focus:** basic formulas, lookup functions, data cleaning and finance transaction analysis
 * **Key skills:** `SUM`, `AVERAGE`, `MIN`, `MAX`, `COUNT`, `IF`, Text Functions, Date Functions, `XLOOKUP`, `VLOOKUP`, `INDEX + MATCH`, `TRIM`, Remove Duplicates, Text to Columns and Data Validation
-* **Status:** In Progress
+* **Status:** Completed
 
 ## Connect With Me
 
