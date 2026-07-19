@@ -50,6 +50,28 @@ Excel portfolio project focused on practical finance-related spreadsheet skills 
 * **Key skills:** `SUM`, `AVERAGE`, `MIN`, `MAX`, `COUNT`, `IF`, Text Functions, Date Functions, `XLOOKUP`, `VLOOKUP`, `INDEX + MATCH`, `TRIM`, Remove Duplicates, Text to Columns and Data Validation
 * **Status:** Completed
 
+## Projects in Progress
+
+### [Financial Reporting and Variance Analysis](https://github.com/darrellgayok/financial-reporting-variance-analysis)
+
+Finance analytics project simulating a monthly financial reporting process for a fictional multi-branch company, with a focus on comparing actual results against budget and translating variances into management insights.
+
+* **Tools:** Excel, Power Query, SQL, Power BI and GitHub
+* **Focus:** budget versus actual performance, revenue and expense variances, monthly trends, branch and department performance, account-level investigation and management commentary
+* **Planned skills:** data preparation, data transformation, variance calculations, financial reconciliation, SQL validation, data modelling, DAX measures and dashboard reporting
+* **Status:** 🚧 In Progress
+
+### SAP S/4HANA Finance Process Case Study
+
+Learning-based case study documenting how financial transactions move through an enterprise finance process, from supplier invoice recording and Accounts Payable to payment, General Ledger posting and month-end reporting.
+
+* **Resources:** SAP Learning, Markdown, process diagrams and GitHub
+* **Focus:** supplier invoice processing, Accounts Payable, outgoing payments, General Ledger integration, accounting entries, financial controls and month-end reconciliation
+* **Planned skills:** SAP S/4HANA Finance concepts, process mapping, Record-to-Report understanding, accounting controls, risk identification and finance-process documentation
+* **Status:** 📚 Learning and Planning Stage
+
+> This will be a conceptual learning-based case study using official SAP Learning resources. It will not represent hands-on SAP configuration or implementation experience.
+
 ## Connect With Me
 
 * LinkedIn: [linkedin.com/in/darrell-gayok-insor](https://www.linkedin.com/in/darrell-gayok-insor)
