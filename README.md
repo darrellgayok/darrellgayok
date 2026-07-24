@@ -50,7 +50,6 @@ Undergraduate thesis examining ESG, green finance and firm performance among Mal
 
 - 📄 [Final Year Project Report – UNIMAS Institutional Repository](http://ir.unimas.my/id/eprint/52494)
 - 🖼️ [Research Presentation Poster – UNIMAS Institutional Repository](http://ir.unimas.my/id/eprint/52191)
-- 📊 [Power BI Research Dashboard – GitHub](https://github.com/darrellgayok/esg-firm-performance-dashboard)
 
 ## Featured Projects
 
