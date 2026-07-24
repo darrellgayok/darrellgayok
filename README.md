@@ -42,7 +42,7 @@ I am a finance graduate interested in financial analysis, financial reporting, E
 * Advanced Power Query
 * Power BI data modelling and DAX
 
-## Undergraduate Research
+## Academic Research
 
 ### ESG and Firm Performance: The Moderating Role of Green Finance
 
